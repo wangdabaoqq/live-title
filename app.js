@@ -1,7 +1,7 @@
 var resize = require('./lib/resize'),
 cfg = require('./config'),
 express = require('express'),
-port = process.env.OPENSHIFT_NODEJS_PORT || process.env.PORT || 3000,
+port = process.env.OPENSHIFT_NODEJS_PORT || process.env.PORT || 5001,
 host = process.env.OPENSHIFT_NODEJS_IP;
 
 var photosPath = './resources/photos';
