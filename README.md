@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Zing Gallery
 ============
 
@@ -107,3 +108,6 @@ albums: {
 执行命令``npm run dev``（不压缩，一般开发时用）或``npm run dist``（压缩）
 
 将``assets/src``里的源文件编译到``assets/dist``目录。
+=======
+# live-title
+>>>>>>> ae89cb18f4890de74fec1c7b5b93df607cae906a
